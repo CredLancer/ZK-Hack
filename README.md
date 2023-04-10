@@ -1,6 +1,8 @@
 # ZK-Hack
 Building a CredLancer Mobile Demo for the ZK Hackathon by Bekeley https://zk-hacking.org/
 
+Track: ZK Application, Celo Mobile App
+
 CredLancer: a digital reputation platform that verifies accomplishments & skills. Orgs issue tamper-proof credentials to members & freelancers who accomplish bounty secured quests. With AI integrations, freelancers can showcase real-time skill and professional development credentials, stored and verified with IPFS & FVM.
 
 The CredQuest Contracts power CredLancer, providing an open marketplace for gig opportunities and secured bounties, where freelancers can showcase their real-time experience & skills credentials, stored and verified with InterPlanetary File System (IPFS) and Filecoin Virtual Machine (FVM). (We are exploring data storage on Ceramic as we develop a more robust DAPP) CredQuest Credentials provide the community an accurate, reliable and searchable representation of real time freelancer qualifications and professional development.
@@ -40,3 +42,5 @@ Professional Development Data: Information about professional development activi
 Further Development:
 
 Reputation and skills scoring: We can create a system that incorporated smart contracts deployed on FVM to read data stored on IPFS and create a tamper-proof record of users’ professional achievements, allowing them to demonstrate their skills and reputation on-chain. As these are connected to a specific CID, they are portable for other uses.
+
+Anyone interested in contributing to this initiative feel free to message @ACTxDesign on Telegram 
