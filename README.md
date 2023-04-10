@@ -1,4 +1,5 @@
 # ZK-Hack
+Building a CredLancer Mobile Demo for the ZK Hackathon by Bekeley https://zk-hacking.org/
 
 CredLancer: a digital reputation platform that verifies accomplishments & skills. Orgs issue tamper-proof credentials to members & freelancers who accomplish bounty secured quests. With AI integrations, freelancers can showcase real-time skill and professional development credentials, stored and verified with IPFS & FVM.
 
@@ -13,10 +14,16 @@ Difficulty in demonstrating professional development and achievements
 Lack of interoperability and portability of professional data
 Using ZKP Technology The integration of Zero-Knowledge Proofs will benefit the product design in the following areas:
 
-Privacy: Integrating Identity Login protocols that ensure personal data remains private with opt-in credential visibility
-Scalibility & Fees: Layer 2 solutions on Ethereum can improve platform fees. Solutions like ZKSync Era & Starkware´s Starknet have the added benefit of account abstraction built in natively.
-Project links
-Link to demo or website, if applicable: Pitch Video: https://www.loom.com/share/45c880278d0041c7889c6f3d65a3eabd Demo: https://www.loom.com/share/47564c02330340038544ebb5f75b73b4
+1. Privacy: Integrating Identity Login protocols that ensure personal data remains private with opt-in credential visibility
+2. Scalibility & Fees: Layer 2 solutions on Ethereum can improve platform fees. Solutions like ZKSync Era & Starkware´s Starknet have the added benefit of account abstraction built in natively.
+
+Project Repos:
+Starkware/Staknet DEMO Repo: https://github.com/captainahab0x/CredLancer_Starknet (Cairo)  
+IPFS/FVM Demo Repo: https://github.com/CredLancer/CredQuestFVM
+
+Link to demo or website, if applicable: 
+Pitch Video: https://www.loom.com/share/45c880278d0041c7889c6f3d65a3eabd 
+Demo: https://www.loom.com/share/47564c02330340038544ebb5f75b73b4
 
 License: MIT
 
