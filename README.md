@@ -1,13 +1,12 @@
 # ZK-Hack
 Building a CredLancer Mobile Demo for the ZK Hackathon by Bekeley https://zk-hacking.org/
 
-Track: ZK Application, Celo Mobile App
+Track: ZK Application, Celo Mobile App, Mantle
+1. Overall Description
 
 CredLancer: a digital reputation platform that verifies accomplishments & skills. Orgs issue tamper-proof credentials to members & freelancers who accomplish bounty secured quests. With AI integrations, freelancers can showcase real-time skill and professional development credentials, stored and verified with IPFS & FVM.
 
 The CredQuest Contracts power CredLancer, providing an open marketplace for gig opportunities and secured bounties, where freelancers can showcase their real-time experience & skills credentials, stored and verified with InterPlanetary File System (IPFS) and Filecoin Virtual Machine (FVM). (We are exploring data storage on Ceramic as we develop a more robust DAPP) CredQuest Credentials provide the community an accurate, reliable and searchable representation of real time freelancer qualifications and professional development.
-
-Goals
 
 CredLancer aims to deliver tamper-proof credentials, showcase professional development and achievement, while maintaining data privacy and sovereignty. We aim to address three major problems:
 
@@ -19,15 +18,9 @@ Using ZKP Technology The integration of Zero-Knowledge Proofs will benefit the p
 1. Privacy: Integrating Identity Login protocols that ensure personal data remains private with opt-in credential visibility
 2. Scalibility & Fees: Layer 2 solutions on Ethereum can improve platform fees. Solutions like ZKSync Era & Starkware´s Starknet have the added benefit of account abstraction built in natively.
 
-Project Repos:
-Starkware/Staknet DEMO Repo: https://github.com/captainahab0x/CredLancer_Starknet (Cairo)  
-IPFS/FVM Demo Repo: https://github.com/CredLancer/CredQuestFVM
+2) Technologies Used
+Solidity, Typescript, Node.js, Flutter, Open Zepplin, Cookbook, Celo, ZK Sync Era, Mantle, IPFS, Gnosis Safe
 
-Link to demo or website, if applicable: 
-Pitch Video: https://www.loom.com/share/45c880278d0041c7889c6f3d65a3eabd 
-Demo: https://www.loom.com/share/47564c02330340038544ebb5f75b73b4
-
-License: MIT
 
 Technologies explored:
 
@@ -41,6 +34,5 @@ Professional Development Data: Information about professional development activi
 
 Further Development:
 
-Reputation and skills scoring: We can create a system that incorporated smart contracts deployed on FVM to read data stored on IPFS and create a tamper-proof record of users’ professional achievements, allowing them to demonstrate their skills and reputation on-chain. As these are connected to a specific CID, they are portable for other uses.
+Use of private document sharing like PolygonID
 
-Anyone interested in contributing to this initiative feel free to message @ACTxDesign on Telegram 
