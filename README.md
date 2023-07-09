@@ -36,3 +36,19 @@ Further Development:
 
 Use of private document sharing like PolygonID
 
+###  <h1 align="left">📊 App Screenshots</h1>
+![image](https://github.com/CredLancer/ZK-Hack/assets/99349720/2d100a64-5255-49c1-939b-f8ba15939c32)
+
+![image-](https://github.com/CredLancer/ZK-Hack/assets/99349720/7e57fdeb-4fbd-4e8e-ae7b-78207fd3920e)
+
+ ### 📕 Figma Link:
+ https://www.figma.com/file/Te021cCbsxMu7hnnZ8TOoj/CredQuest?type=design&node-id=0%3A1&mode=design&t=l1Gk7ZwMIdKMZd3g-1
+
+
+
+
+
+
+
+
+
